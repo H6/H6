@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![High 6](hand.jpeg)
+![High 6](https://github.com/H6/H6/blob/master/hand.jpeg)
 
 <!--
 **H6/H6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
