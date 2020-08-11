@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![High 6](https://github.com/H6/H6/blob/master/itsme.png)
 
 <!--
